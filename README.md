@@ -1,2 +1,0 @@
-# agilecontent
-Prueba de Agilecontent 

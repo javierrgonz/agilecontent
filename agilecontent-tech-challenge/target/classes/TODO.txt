@@ -1,0 +1,4 @@
+- Hacer la documentacion del swagger
+- Testing
+
+- Si queda tiempo, hacerlo reactivo
